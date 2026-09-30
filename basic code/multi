@@ -1,0 +1,8 @@
+x = int(input("enter your 1st digit"))
+y = int(input("enter your 2nd digit"))
+c=x*y
+
+if x==0 or y==0:
+ print("your answer is zero when you multiply any numbet with zero", c)
+else:
+ print(c)
