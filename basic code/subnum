@@ -1,0 +1,7 @@
+a=40
+b= 70
+sub = a-b
+if b>a or a>b:
+ print("your ans is in negative :: " , sub)
+else: 
+ print("your ans : " , sub)
